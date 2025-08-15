@@ -182,4 +182,5 @@ temp/
 
 # API keys and secrets
 secrets/
+.env
 credentials/
